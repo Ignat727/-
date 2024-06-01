@@ -1,0 +1,30 @@
+﻿<materials>
+	<material>
+		<name>Песок</name>
+		<availability>450 кг</availability>
+		<manufacturer>Hnat Corporation</manufacturer>
+		<price>200</price>
+		<currency>гривен за 1 кг</currency>
+	</material>
+	<material>
+		<name>Цемент</name>
+		<availability>1 тонна</availability>
+		<manufacturer>Hnat Corporation</manufacturer>
+		<price>175</price>
+		<currency>гривен за 1 кг</currency>
+	</material>
+	<material>
+		<name>Лак</name>
+		<availability>600 л</availability>
+		<manufacturer>Hnat Corporation</manufacturer>
+		<price>120</price>
+		<currency>гривен за 1 л</currency>
+	</material>
+	<material>
+		<name>Шпаклевка</name>
+		<availability>800 кг</availability>
+		<manufacturer>Hnat Corporation</manufacturer>
+		<price>95</price>
+		<currency>гривен за 1 кг</currency>
+	</material>
+</materials>

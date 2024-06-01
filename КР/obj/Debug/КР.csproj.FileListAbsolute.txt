@@ -1,0 +1,10 @@
+D:\Задания Visual Studio\КР\КР\bin\Debug\КР.exe.config
+D:\Задания Visual Studio\КР\КР\bin\Debug\КР.exe
+D:\Задания Visual Studio\КР\КР\bin\Debug\КР.pdb
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.csproj.AssemblyReference.cache
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.Form1.resources
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.Properties.Resources.resources
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.csproj.GenerateResource.cache
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.csproj.CoreCompileInputs.cache
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.exe
+D:\Задания Visual Studio\КР\КР\obj\Debug\КР.pdb
